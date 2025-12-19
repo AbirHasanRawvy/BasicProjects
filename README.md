@@ -7,4 +7,7 @@ From <u>index.html</u> click on <u>Open With Live Server</u><br>
 
 Open: http://127.0.0.1:5500/P1/index.html with your browser to see the result.<b>
 
+# Learn More
+To learn more about HTML & CSS, take a look at the following resources:[https://www.w3schools.com/html/ & ](https://www.w3schools.com/html/html_css.asp)
+
 
