@@ -3,3 +3,4 @@ Creating a pixel-perfect designs project by using HTML &amp; CSS. Its a simple a
 
 # Getting Started
 First run the developement server: 
+From <u>index.html</u> click on <u>Open With Live Server</u>
