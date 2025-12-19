@@ -3,7 +3,8 @@ Creating a pixel-perfect designs project by using HTML &amp; CSS. Its a simple a
 
 # Getting Started
 First run the developement server:<br> 
-From <u>index.html</u> click on <u>Open With Live Server</u>
+From <u>index.html</u> click on <u>Open With Live Server</u><br>
+
 Open: http://127.0.0.1:5500/P1/index.html with your browser to see the result.<b>
 
 
